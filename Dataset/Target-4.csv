@@ -1,0 +1,161 @@
+order,texts,corpus
+1,"""Hey Google, read a bedtime story.""",Corpus1
+2,"""Hey Google, did the Liverpool win yesterday?""",Corpus1
+3,"""Hey Google, redi-al.""",Corpus1
+4,"""Hey Google, call the nearest coffee shop.""",Corpus1
+5,"""Hey Google, stop the music.""",Corpus1
+6,"""Hey Google, broadcast 'wake everybody up'.""",Corpus1
+7,"""Hey Google, dim the living room lights.""",Corpus1
+8,"""Hey Google, broadcast 'dinner is ready'.""",Corpus1
+9,"""Hey Google, turn on the Bedroom Light.""",Corpus1
+10,"""Hey Google, broadcast 'time to leave for school'.""",Corpus1
+11,"""Hey Google, stop.""",Corpus1
+12,"""Hey Google, play music on all the downstairs speakers.""",Corpus1
+13,"""Hey Google, play some hip hop.""",Corpus1
+14,"""Hey Google, snooze the alarm.""",Corpus1
+15,"""Hey Google, what does an elephant sound like?""",Corpus1
+16,"""Hey Google, remember that I left the spare keys in the kitchen cupboard.""",Corpus1
+17,"""Hey Google, play Batman on TV.""",Corpus1
+18,"""Hey Google, what is the French word for grapefruit?""",Corpus1
+19,"""Hey Google, help.""",Corpus1
+20,"""Hey Google, what are my reminders for this week?""",Corpus1
+1,"""Hey Google, what does an elephant sound like?""",Corpus2
+2,"""Hey Google, remind me at 8am tomorrow to take my lunch in to work.""",Corpus2
+3,"""Hey Google, play some music from Spotify.""",Corpus2
+4,"""Hey Google, play Money by LISA from Spotify.""",Corpus2
+5,"""Hey Google, flip a coin.""",Corpus2
+6,"""Hey Google, read Women and Power.""",Corpus2
+7,"""Hey Google, move my music to the bedroom""",Corpus2
+8,"""Hey Google, read a bedtime story.""",Corpus2
+9,"""Hey Google, Open Spotify.""",Corpus2
+10,"""Hey Google, raise the temperature three degrees.""",Corpus2
+11,"""Hey Google, hang up.""",Corpus2
+12,"""Hey Google, broadcast 'time to leave for school'.""",Corpus2
+13,"""Hey Google, brighten the office lamp.""",Corpus2
+14,"""Hey Google, what is today's headlines?""",Corpus2
+15,"""Hey Google, turn on the Bedroom Light.""",Corpus2
+16,"""Hey Google, where did I put the spare keys?""",Corpus2
+17,"""Hey Google, redial.""",Corpus2
+18,"""Hey Google, are there any Italian restaurants around here?""",Corpus2
+19,"""Hey Google, call my phone.""",Corpus2
+20,"""Hey Google, do I have anything scheduled for Friday?""",Corpus2
+1,"""Hey Google, set the thermostat to 20 (Twenty) degrees.""",Corpus3
+2,"""Hey Google, broadcast 'dinner is ready'.""",Corpus3
+3,"""Hey Google, set an alarm for 7.15am (seven-point-fifth-teen-A.M.) tomorrow morning.""",Corpus3
+4,"""Hey Google, delete my reminder to pick up my dry cleaning.""",Corpus3
+5,"""Hey Google, skip to the next chapter.""",Corpus3
+6,"""Hey Google, did the Liverpool win yesterday?""",Corpus3
+7,"""Hey Google, when is it going to rain?""",Corpus3
+8,"""Hey Google, sing a song.""",Corpus3
+9,"""Hey Google, are there any Italian restaurants around here?""",Corpus3
+10,"""Hey Google, start the school day""",Corpus3
+11,"""Hey Google, hang up.""",Corpus3
+12,"""Hey Google, help.""",Corpus3
+13,"""Hey Google, broadcast 'wake everybody up'.""",Corpus3
+14,"""Hey Google, How do you solve this problem?""",Corpus3
+15,"""Hey Google, raise the temperature three degrees.""",Corpus3
+16,"""Hey Google, stop the music.""",Corpus3
+17,"""Hey Google, read a bedtime story.""",Corpus3
+18,"""Hey Google, add apples to my shopping list.""",Corpus3
+19,"""Hey Google, what does an elephant sound like?""",Corpus3
+20,"""Hey Google, broadcast 'the football is about to start.""",Corpus3
+1,"""Hey Google, stop the music.""",Corpus4
+2,"""Hey Google, how many calories are in a Banana?""",Corpus4
+3,"""Hey Google, play some music.""",Corpus4
+4,"""Hey Google, flip a coin.""",Corpus4
+5,"""Hey Google, what are my reminders for this week?""",Corpus4
+6,"""Hey Google, what's the temperature right now?""",Corpus4
+7,"""Hey Google, show me the backdoor camera.""",Corpus4
+8,"""Hey Google, set alarm for 8 AM tomorrow.""",Corpus4
+9,"""Hey Google, when is it going to rain?""",Corpus4
+10,"""Hey Google, turn the living room lights to blue""",Corpus4
+11,"""Hey Google, snooze the alarm.""",Corpus4
+12,"""Hey Google, broadcast 'time to leave for school'.""",Corpus4
+13,"""Hey Google, stop.""",Corpus4
+14,"""Hey Google, remind me at 8am tomorrow to take my lunch in to work.""",Corpus4
+15,"""Hey Google, play some music from Spotify.""",Corpus4
+16,"""Hey Google, add apples to my shopping list.""",Corpus4
+17,"""Hey Google, read Women and Power.""",Corpus4
+18,"""Hey Google, when is Walmart open until?""",Corpus4
+19,"""Hey Google, turn up the sound.""",Corpus4
+20,"""Hey Google, cancel the alarm for 7.15 (Seven-Point-fifth-teen).""",Corpus4
+1,"""Hey Google, set an alarm for 7.15am (seven-point-fifth-teen-A.M.) tomorrow morning.""",Corpus5
+2,"""Hey Google, broadcast 'the football is about to start.""",Corpus5
+3,"""Hey Google, flip a coin.""",Corpus5
+4,"""Hey Google, spell artificial intelligence.""",Corpus5
+5,"""Hey Google, how do you make ketchup?""",Corpus5
+6,"""Hey Google, play some music from Spotify.""",Corpus5
+7,"""Hey Google, what are my reminders for this week?""",Corpus5
+8,"""Hey Google, stop the music in 15 (fifth-teen) minutes.""",Corpus5
+9,"""Hey Google, brighten the office lamp.""",Corpus5
+10,"""Hey Google, what does an elephant sound like?""",Corpus5
+11,"""Hey Google, lock the front door.""",Corpus5
+12,"""Hey Google, read Women and Power.""",Corpus5
+13,"""Hey Google, turn the living room lights to blue""",Corpus5
+14,"""Hey Google, call my phone.""",Corpus5
+15,"""Hey Google, set the thermostat to 20 (Twenty) degrees.""",Corpus5
+16,"""Hey Google, play my Evening Jazz playlist.""",Corpus5
+17,"""Hey Google, did the Liverpool win yesterday?""",Corpus5
+18,"""Hey Google, sing a song.""",Corpus5
+19,"""Hey Google, call the nearest coffee shop.""",Corpus5
+20,"""Hey Google, pause the music.""",Corpus5
+1,"""Hey Google, open the blinds.""",Corpus6
+2,"""Hey Google, play some music from Spotify.""",Corpus6
+3,"""Hey Google, add apples to my shopping list.""",Corpus6
+4,"""Hey Google, what does my day look like?""",Corpus6
+5,"""Hey Google, cancel the alarm for 7.15 (Seven-Point-fifth-teen).""",Corpus6
+6,"""Hey Google, where is my first event tomorrow?""",Corpus6
+7,"""Hey Google, play Money by LISA from Spotify.""",Corpus6
+8,"""Hey Google, set a timer for 10 (Ten) minutes.""",Corpus6
+9,"""Hey Google, call the nearest coffee shop.""",Corpus6
+10,"""Hey Google, set an alarm for 7.15am (seven-point-fifth-teen-A.M.) tomorrow morning.""",Corpus6
+11,"""Hey Google, set alarm for 8 AM tomorrow.""",Corpus6
+12,"""Hey Google, stop the music.""",Corpus6
+13,"""Hey Google, what are my reminders for this week?""",Corpus6
+14,"""Hey Google, snooze the alarm.""",Corpus6
+15,"""Hey Google, what is the time?""",Corpus6
+16,"""Hey Google, pause the music.""",Corpus6
+17,"""Hey Google, call My mom.""",Corpus6
+18,"""Hey Google, what is the traffic like on the way to work?""",Corpus6
+19,"""Hey Google, play my Evening Jazz playlist.""",Corpus6
+20,"""Hey Google, is my phone connected over Bluetooth?""",Corpus6
+1,"""Hey Google, play some hip hop.""",Corpus7
+2,"""Hey Google, skip this track.""",Corpus7
+3,"""Hey Google, turn on the Bedroom Light.""",Corpus7
+4,"""Hey Google, read Women and Power.""",Corpus7
+5,"""Hey Google, call the nearest coffee shop.""",Corpus7
+6,"""Hey Google, How do you solve this problem?""",Corpus7
+7,"""Hey Google, how much time is left on this chapter?""",Corpus7
+8,"""Hey Google, Bluetooth pairing.""",Corpus7
+9,"""Hey Google, flip a coin.""",Corpus7
+10,"""Hey Google, set a second timer for 30 (Thir-ty) minutes.""",Corpus7
+11,"""Hey Google, set the thermostat to 20 (Twenty) degrees.""",Corpus7
+12,"""Hey Google, what is the time?""",Corpus7
+13,"""Hey Google, remember that I left the spare keys in the kitchen cupboard.""",Corpus7
+14,"""Hey Google, when is Walmart open until?""",Corpus7
+15,"""Hey Google, brighten the office lamp.""",Corpus7
+16,"""Hey Google, hang up.""",Corpus7
+17,"""Hey Google, delete my reminder to pick up my dry cleaning.""",Corpus7
+18,"""Hey Google, call my phone.""",Corpus7
+19,"""Hey Google, broadcast 'dinner is ready'.""",Corpus7
+20,"""Hey Google, add apples to my shopping list.""",Corpus7
+1,"""Hey Google, help me relax.""",Corpus8
+2,"""Hey Google, sing a song.""",Corpus8
+3,"""Hey Google, read a bedtime story.""",Corpus8
+4,"""Hey Google, raise the temperature three degrees.""",Corpus8
+5,"""Hey Google, set an alarm for 7.15am (seven-point-fifth-teen-A.M.) tomorrow morning.""",Corpus8
+6,"""Hey Google, do I have any alarms set?""",Corpus8
+7,"""Hey Google, play Money by LISA from Spotify.""",Corpus8
+8,"""Hey Google, skip to the next chapter.""",Corpus8
+9,"""Hey Google, are there any Italian restaurants around here?""",Corpus8
+10,"""Hey Google, play some hip hop.""",Corpus8
+11,"""Hey Google, play some music.""",Corpus8
+12,"""Hey Google, turn on all the switches.""",Corpus8
+13,"""Hey Google, what's the weather like today?""",Corpus8
+14,"""Hey Google, Bluetooth pairing.""",Corpus8
+15,"""Hey Google, set the kitchen lights to 50% (Fifthy-Percent).""",Corpus8
+16,"""Hey Google, how much time is left on this chapter?""",Corpus8
+17,"""Hey Google, help.""",Corpus8
+18,"""Hey Google, broadcast 'dinner is ready'.""",Corpus8
+19,"""Hey Google, cancel the alarm for 7.15 (Seven-Point-fifth-teen).""",Corpus8
+20,"""Hey Google, add apples to my shopping list.""",Corpus8
