@@ -7,7 +7,7 @@ Participant01,Corpus1,A1,5,"""Hey Google, stop the music.""",hey Google stop the
 Participant01,Corpus1,A1,6,"""Hey Google, broadcast 'wake everybody up'.""",hey Google what's the last break everybody up,0.8333333333333334,0.5555555555555556,0.7037037037037037
 Participant01,Corpus1,A1,7,"""Hey Google, dim the living room lights.""",Hey Google dim the living room lights,0.0,0.0,0.0
 Participant01,Corpus1,A1,8,"""Hey Google, broadcast 'dinner is ready'.""",hey Google broadcast dinner is ready,0.16666666666666666,0.16666666666666666,0.30555555555555547
-Participant01,Corpus1,A1,9,"""Hey Google, turn on the Bedroom Light.""",-,1.0,1.0,1.0
+Participant01,Corpus1,A1,9,"""Hey Google, turn on the Bedroom Light.""",hey Google turn on the bedroom lights,0.14285714285714285,0.14285714285714285,0.26530612244897966
 Participant01,Corpus1,A1,10,"""Hey Google, broadcast 'time to leave for school'.""",hey Google turn on the bedroom lights,0.75,0.75,0.9285714285714286
 Participant01,Corpus1,A1,11,"""Hey Google, stop.""",hey Google stop,0.0,0.0,0.0
 Participant01,Corpus1,A1,12,"""Hey Google, play music on all the downstairs speakers.""",hey Google play music on all the downstairs speakers,0.0,0.0,0.0
@@ -34,7 +34,7 @@ Participant01,Corpus2,B1,12,"""Hey Google, broadcast 'time to leave for school'.
 Participant01,Corpus2,B1,13,"""Hey Google, brighten the office lamp.""",OK Google by Kennedy office mam,0.6666666666666666,0.6666666666666666,0.8888888888888888
 Participant01,Corpus2,B1,14,"""Hey Google, what is today's headlines?""",hey Google what is today's headlines,0.0,0.0,0.0
 Participant01,Corpus2,B1,15,"""Hey Google, turn on the Bedroom Light.""",hey Google Berry equipment,0.7142857142857143,0.7142857142857143,0.8571428571428572
-Participant01,Corpus2,B1,16,"""Hey Google, where did I put the spare keys?""",-,1.0,1.0,1.0
+Participant01,Corpus2,B1,16,"""Hey Google, where did I put the spare keys?""",hey Google Berry equipment,0.7777777777777778,0.7777777777777778,0.8888888888888888
 Participant01,Corpus2,B1,17,"""Hey Google, redial.""",hey Google redial,0.0,0.0,0.0
 Participant01,Corpus2,B1,18,"""Hey Google, are there any Italian restaurants around here?""",hey Google are there any Italian restaurant,0.3333333333333333,0.3333333333333333,0.4285714285714286
 Participant01,Corpus2,B1,19,"""Hey Google, call my phone.""",OK Google call my boy,0.4,0.4,0.64
